@@ -1,13 +1,13 @@
 ## ABOUT ME
 
-name : ```Ryuko Developer```</br>
-age : ```18```</br>
-link : [facebook](https://www.facebook.com/ryukodev).</br>
+name : ```Mot Na Kupal```</br>
+age : ```Undefined```</br>
+link : [facebook](https://www.facebook.com/profile.php?id=61570515009418).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [ryuko](https://replit.com/@ryukodev/ryuko?v=1) by ```Ryuko Developer```</br>
+modified : [ryuko](https://replit.com/@oyamatmot86/Mot?v=1) by ```Ryuko Developer```</br>
 fca : [ws3-fca](https://www.npmjs.com/package/ws3-fca) by ```Kenneth Aceberos```
 
 ## UPDATES
@@ -40,9 +40,9 @@ adding aliases for each commands
 
 ## CONFIG AND CUSTOM
 
-ryuko.js : ``configure auto restart and auto accept pending messages.``</br>
-ryuko.json : ``configure bot name, bot prefix, bot operators and admins.``</br>
-ryukostate.json : ``account cache data.``
+Mot.js : ``configure auto restart and auto accept pending messages.``</br>
+Mot.json : ``configure bot name, bot prefix, bot operators and admins.``</br>
+Motstate.json : ``account cache data.``
 
 ## BOX APPROVAL
 
@@ -65,7 +65,7 @@ remove box from approved list
 approve remove 4834812366643016
 ```
 
-## HOW TO GET 'RYUKOSTATE.JSON' DATA?
+## HOW TO GET 'MotSTATE.JSON' DATA?
 
 to get ``ryukostate.json`` data, please follow these steps :</br>
 
